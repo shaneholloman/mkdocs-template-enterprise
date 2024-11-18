@@ -13,7 +13,6 @@ Image test:
 
 ![GbAbpPtWYAAdVFG](https://github.com/user-attachments/assets/bf4a15e0-3863-4a50-b717-21307da8918b)
 
-
 ## Project layout
 
     mkdocs.yml    # The configuration file.
