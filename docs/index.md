@@ -11,7 +11,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 Image test:
 
-![File 12-09-2024, 11 54 50 AM](https://github.com/user-attachments/assets/e3e79e12-43ff-4507-8450-c57d2c5efccc)
+![GbAbpPtWYAAdVFG](https://github.com/user-attachments/assets/bf4a15e0-3863-4a50-b717-21307da8918b)
+
 
 ## Project layout
 
