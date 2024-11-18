@@ -77,8 +77,8 @@ GitHub recommends keeping repositories small, ideally under 1 GB and strongly un
    * Generate token and copy it
 
 2. **Add Secret to Repository**
-   * Go to repository Settings <https://github.com/shaneholloman/mkdocs-material-example/settings/secrets/actions>
-   * Navigate to Security → Secrets and variables → Actions
+   * Go to repository Settings <https://github.com/shaneholloman/mkdocs-template-enterprise/settings/secrets/actions>
+   * Navigate to Settings → Secrets and variables → Actions
    * Click "New repository secret"
    * Name: `GH_TOKEN`
    * Value: *paste your PAT*

@@ -3,8 +3,8 @@ site_name: Mkdocs Material Example
 site_description: Just a tester
 
 # Repository
-repo_name: shaneholloman/mkdocs-material-example
-repo_url: https://github.com/shaneholloman/mkdocs-material-example
+repo_name: shaneholloman/mkdocs-template-enterprise
+repo_url: https://github.com/shaneholloman/mkdocs-template-enterprise
 edit_uri: blob/main/docs/
 
 # Copyright
