@@ -1,3 +1,4 @@
 #TODO
 
-- [ ] ensure github hosted images removed
+- [ ] ensure github hosted images remove
+- [ ] updates badges
